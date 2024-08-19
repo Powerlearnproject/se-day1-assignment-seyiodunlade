@@ -1,0 +1,36 @@
+PART 1
+
+1. Software Engineering is the process that involves the development, maintenance and deployment of software applications. Software engineering enables the creation of digital solutions to enable businesses meet the needs of their customers. It also enables the creation of various tools and products that have improved the way people live.
+
+2. Three key milestones in the evolution of software engineering are:
+- Rise of agile methodologies
+- Development of programming languages such as C
+- The establishment of software development as a discipline in the 1960s.
+
+3. The phases of the Software Development Life Cycle include:
+i. Requirement: This phase involves the gathering of information related to the system requirements and needs of the user.
+ii. Design: Creation of designs of the software architecture and the user interface.
+iii. Implementation: this involves the use of code to build the software.
+iv. Testing: Tests are done to ensure the software meets the required standards.
+v. Deployment: Making the software available to the public for use.
+vi. Maintenance: This includes the provision of updates and support for the software.
+
+4. Waterfall methodology typically involves the customer at the beginning and end of a project while  the customer involved throughout the agile approach. Waterfall methodology is rigid while agile approach is flexible. Agile method involves a short period of time with multiple iterations while waterfall methodology is usually long term.
+	Waterfall models are typically used when all the requirements are clear and fixed, resources are adequately available and the necessary tools or technique are stable not dynamic. Agile models are used when frequent changes are required and the project size is small.
+
+5.
+ - Software developer: The software developer is responsible for writing the code for building the software product.
+ - Quality Assurance Engineer: Ensures the software meets the necessary standards by implementing various tests.
+- Project Manager: Is tasked with providing guidance throughout the software development process.
+
+6. IDEs are important as they are necessary for writing, testing and executing the codes in various programming languages. Examples of an IDe include visual studio code and sublime text. Version control systems are used to track different changes with respect to a file or a project. VCS also ensures collaboration on a project. Examples of VCS include GitHub, GitLab.
+
+7. Some challenges faced by software engineers include changing requirements and tight deadlines. These challenges can be solved by effective communication and agile methodologies.
+
+PART 2
+
+1. Prompt engineering is the process of creating specific questions or inputs with the aim of generating appropriate responses from AI models. Prompt engineering is necessary as it mitigates bias (in the form of human bias) and it makes it easy for users to obtain relevant results.
+
+2. 
+  VAGUE PROMPT ========== How can I prepare a meal?
+  IMPROVED PROMPT ======= How can I prepare Nigerian Jollof rice?
